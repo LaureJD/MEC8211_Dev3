@@ -2,7 +2,7 @@
 
 
 ## CONTENT
-###CHECK DEPENDENCIES
+### CHECK DEPENDENCIES
 Allows choosing Python from Anaconda Navigator if present, or Python3 if Anaconda is not installed. Ensures all required libraries are installed.
 ### PARAMETERS
 Contains parameters that can be altered by the user and saves important values for plotting in `results/results.csv`
